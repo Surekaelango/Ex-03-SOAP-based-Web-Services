@@ -156,7 +156,7 @@ A new browser window with the output will appear.
 Follow Step 1 and Step 2 as in Client-side (section 1.2).
 
 #### Step 2:
-A new window will appear. Select “WSDL URL” under the heading “Specify the WSDL file of the Web Service.” and type the URL of the web service’s WSDL file. (Typically, the URL of the form http://ip:8080/Proj_name/Webservice_name?wsdl)
+A new window will appear. Select “WSDL URL” under the heading “Specify the WSDL file of the Web Service.” and type the URL of the web service’s WSDL file. (Typically, the URL of the form http://ip:8080/Proj_name/Webservice_name?wsdl).
  
 
 ![cr2](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/7d6eb944-5735-40b1-a5fc-7af19d6b92c8)
